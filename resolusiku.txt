@@ -1,0 +1,3 @@
+EMENI RESOLUSI
+- konsisten upload video emeni setiap ada lagu baru
+- mulai menjalankan sukaweb.my.id
